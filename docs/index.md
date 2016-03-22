@@ -1,4 +1,4 @@
-# Welcome to Viewdocs
+# Welcome to Pascal Andy's docs
 
 Viewdocs is [Read the Docs](https://readthedocs.org/) meets [Gist.io](http://gist.io/) for simple project documentation. It renders Markdown from your repository's `docs` directory as simple static pages.
 
